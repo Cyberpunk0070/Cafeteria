@@ -1,34 +1,33 @@
 {
   "project_info": {
-    "project_number": "710633045674",
-    "firebase_url": "https://cafeteria-4c44c-default-rtdb.firebaseio.com",
-    "project_id": "cafeteria-4c44c",
-    "storage_bucket": "cafeteria-4c44c.appspot.com"
+    "project_number": "1037749513874",
+    "project_id": "cafeteria-8954a",
+    "storage_bucket": "cafeteria-8954a.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:710633045674:android:ff533331a6e988b9ed5ad3",
+        "mobilesdk_app_id": "1:1037749513874:android:ec4b076902d5bfc2e5c04b",
         "android_client_info": {
           "package_name": "com.example.cafeteria"
         }
       },
       "oauth_client": [
         {
-          "client_id": "710633045674-6nvq511132in1o92pdj7lhttih87j7ma.apps.googleusercontent.com",
+          "client_id": "1037749513874-imqpi70gt6656gpuffbbf0ob5rlahv73.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA71VLLP_viDokagCPUM_zRkGP3QlE13FI"
+          "current_key": "AIzaSyBxK44_jP7rzPcQMetRB6au_FSni1U_174"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "710633045674-6nvq511132in1o92pdj7lhttih87j7ma.apps.googleusercontent.com",
+              "client_id": "1037749513874-imqpi70gt6656gpuffbbf0ob5rlahv73.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

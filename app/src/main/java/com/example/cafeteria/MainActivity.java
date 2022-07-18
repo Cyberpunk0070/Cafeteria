@@ -12,8 +12,8 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 
 public class MainActivity extends AppCompatActivity {
-    FirebaseDatabase database = FirebaseDatabase.getInstance("https://cafeteria-4c44c-default-rtdb.firebaseio.com/");
-    DatabaseReference myRef = database.getReference("Message");
+    FirebaseDatabase database = FirebaseDatabase.getInstance("https://cafeteria-8954a-default-rtdb.firebaseio.com/");
+    DatabaseReference myRef = database.getReference("Messages");
 
     ImageButton dosa,idli,coffee,cake,samosa,bread,pani;
 
@@ -30,9 +30,6 @@ public class MainActivity extends AppCompatActivity {
         samosa = (ImageButton) findViewById(R.id.samosaButton);
         bread = (ImageButton) findViewById(R.id.breadButton);
         pani = (ImageButton) findViewById(R.id.paniButton);
-
-
-
 
         dosa.setOnClickListener(new View.OnClickListener() {
             @Override

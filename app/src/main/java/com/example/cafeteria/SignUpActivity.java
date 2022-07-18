@@ -75,8 +75,6 @@ public class SignUpActivity extends AppCompatActivity implements View.OnClickLis
             return;
         }
 
-
-
         if(name.isEmpty()){
             Fname.setError("Name is Required");
             Fname.requestFocus();
